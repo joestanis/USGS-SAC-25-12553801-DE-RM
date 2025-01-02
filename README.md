@@ -25,7 +25,7 @@ This project is tested to run inside Google Colab. It should also run in any env
 ## Files Overview
 
 ### Scripts
-* `app.R`	- Jupyter notebook containing Python scripts which read . All R package dependencies should be installed before running the app.
+* `JoeStanis_USGS_SeismicData.ipynb` - Jupyter notebook containing Python scripts which read and process the shake trace data.
 
 ### Data files
 * `data/SEP01.mseed` - Earthquake shake data in miniSEED format.
@@ -37,7 +37,8 @@ This project is tested to run inside Google Colab. It should also run in any env
 * `LICENSE.md` - Software release license and copyright.
 * `DISCLAIMER.md` - USGS approved software release disclaimer.
 * `CHANGELOG.md` - History of any project release revisions.
-* `code.json` - USGS coding metadata describing the project .
+* `CODE_OF_CONDUCT.md` - Declaration to abide by the USGS Code of Scientific Conduct.
+* `code.json` - USGS coding metadata describing the project.
 
 ## Distribution
 This project is released for public use, distribution is unlimited.
