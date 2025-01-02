@@ -40,5 +40,11 @@ This project is tested to run inside Google Colab. It should also run in any env
 * `CODE_OF_CONDUCT.md` - Declaration to abide by the USGS Code of Scientific Conduct.
 * `code.json` - USGS coding metadata describing the project.
 
+### Output files
+* `usgs_miniseed_data.sqlite.db` - SQLite database containing the ETL miniSEED data.
+> [!TIP]
+> If using Google Colab to run this notebook the generated database file should be accessible in the `Files` pane. 
+> ![image](https://github.com/user-attachments/assets/eb0acc47-e147-4fed-92a6-d63292d57c81)
+
 ## Distribution
 This project is released for public use, distribution is unlimited.
